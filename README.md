@@ -138,6 +138,6 @@ These issues helped me understand the importance of checking network interfaces,
 - SSH and firewall configuration have been updated, but final verification evidence should be retained.
 - The Lynis results do not guarantee that the server is free from vulnerabilities.
 
-Part of my [Cybersecurity Journal](../cybersec-journal/README.md).
+Part of my [Cybersecurity Journal](/cybersec-journal/README.md).
 
-See [Day 36 Documentation](day-36.md) for the SSH hardening and firewall activity details.
+See [Day 34 Documentation](/cybersec-journal/day-34.md) for the SSH hardening and firewall activity details.
