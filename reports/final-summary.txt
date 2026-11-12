@@ -1,0 +1,10 @@
+Initial Security Baseline 
+Operating System: Ubuntu 26.04.1 LTS 
+Private IP: 192.168.56.106
+NAT IP: 10.0.0.3
+SSH: Active (running)
+Lynis Hardening Index:61
+Warnings:1
+Suggestions:44
+Tests performed: 257
+Lynis version: 3.1.6
