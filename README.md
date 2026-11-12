@@ -8,7 +8,7 @@ Learn what it takes to secure a Linux server, not just attack one. I want to mea
 
 ## Why this project
 
-Projects 1 and 2 were about attacking and scanning. This project looks at cybersecurity from the defender's side, helping me understand why weaknesses such as weak SSH logins, unnecessary open ports, and misconfigured permissions matter, and how to fix them.
+This project looks at cybersecurity from the defender's side, helping me understand why weaknesses such as weak SSH logins, unnecessary open ports, and misconfigured permissions matter, and how to fix them.
 
 It also supports my Linux administration and cloud security goals.
 
@@ -181,7 +181,7 @@ These issues helped me understand the importance of checking network interfaces,
 
 Part of my [Cybersecurity Journal](cybersec-journal/README.md).
 
-See [Day 33 Documentation](cybersec-journal/day-33.md) for the SSH hardening and firewall activity details.
+See [Day 33 Documentation](cybersec-journal/day-33.md) for the record and baseline details.
 
 See [Day 34 Documentation](cybersec-journal/day-34.md) for SSH hardening and firewall evidence.
 
